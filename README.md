@@ -18,3 +18,5 @@
 [Key Insights](#key-insights)
 
 [Business Recommendation](#business-recommendation)
+
+## Background
