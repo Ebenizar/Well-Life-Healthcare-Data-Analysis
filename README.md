@@ -104,6 +104,6 @@ Patient Growth rate: The facilityshowed an increased no of patient inflow over t
 
 ### Business Recommendation
 - Noting the prevalence of infectious diseases among the younger generation, a public health measure should be taken to curb the spread of diseases. More public health awarenesson on hygenic measures in public spaces should be encouraged
-- Older adults should be asked to follow healthier lifestyles to reduce the impact or hasten the health recovery from chronic diseases
+- Older adults should be asked to adopt healthier lifestyles to reduce the impact or hasten the health recovery from chronic diseases
 - With the decline in patient inflow, the facility will loose its market share shortly, hence they should look into providing better services for patients within the middle and older age seeing most of their patients fall within this age brackets, primirily solving chronic health cases
 
