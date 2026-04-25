@@ -7,7 +7,7 @@
 
 [Analysis Objectives](#analysis-objectives)
 
-[Dataset Description](#data-description)
+[Dataset Description](#dataset-description)
 
 [Tools Used](#tools-used)
 
@@ -41,7 +41,7 @@ Specifically:
 Without this information, management is unable to effectively plan for the 
 allocation of hospital resources or assess trends across different patient groups.
 
-### Analysis Objective 
+### Analysis Objectives
 The objective of this analysis is to describe and summarize the distribution of patients from 
 2021 to 2024. This analysis will: 
 - Present the total number of patients recorded from 2021 to 2024.
