@@ -1,4 +1,4 @@
-# Well-Life-Patient-Admissions-and-Diagnosis-Trends-Analysis
+# Well-Life-Patient-Admissions-and-Diagnosis-Trends Analysis
 
 ### Table Of Content
 [Background](#background)
