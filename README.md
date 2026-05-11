@@ -27,7 +27,7 @@ such as
 - Age, Diagnosis
 - Gender
 - Admission_Date
-- Diagnoses{ these are grouped into two categories: Patient Cases and Chronic Cases.
+- Diagnoses{ these are grouped into two categories: infectious Cases and Chronic Cases.
 Management requires a comprehensive overview of patient distribution, diagnosis trends, and demographic factors 
 to improve resource allocation for the upcoming years. 
 
