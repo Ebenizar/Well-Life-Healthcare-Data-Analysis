@@ -1,4 +1,5 @@
 # Well Life Patient Admissions and Diagnosis Trends Analysis
+<img width="1158" height="655" alt="WellLife Dashboard" src="https://github.com/user-attachments/assets/4b704583-b6f4-480d-bc9d-e18d5a0e8fbb" />
 
 ### Table Of Content
 [Background](#background)
